@@ -1,20 +1,20 @@
 Mammals
 1 Dolphin - David
-2
+2 Blue Whale - Matthew
 3
 4
 Reptiles
 1 Lizard - David
-2
+2 Snake - Matthew
 3
 4
 Fish
 1 Puffer Fish - David
-2
+2 Clown Fish - Matthew
 3
 4
 Birds
 1 Bald eagle - David
-2
+2 Owl - Matthew
 3
 4
